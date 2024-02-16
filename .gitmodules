@@ -1,0 +1,3 @@
+[submodule "libs/shared"]
+	path = libs/shared
+	url = git@github.com:island-is/island.is.git
